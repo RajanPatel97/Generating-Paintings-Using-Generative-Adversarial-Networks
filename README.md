@@ -1,3 +1,4 @@
+*INSTRUCTIONS STILL NEED TO BE ADDED TO VARIOUS FOLDERS AND CERTAIN MODIFICATIONS NEED TO BE UPLAODED
 # Generating Paintings using Generative Adversarial Networks
 This is the repository for my EEE MEng Final Year Project at Imperial College London 
 
