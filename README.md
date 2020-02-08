@@ -2,8 +2,8 @@
 This is the repository for my Generation of Paintings using Generative Adversarial Networks Project at Imperial College London 
 
 
-![samplegif_64fps](https://github.com/RajanPatel97/FYP/Assets/samplegif_64fps.gif?raw=true)
-
+![samplegif_64fps](https://github.com/RajanPatel97/FYP/blob/master/Assets/samplegif_64fps.gif)
+![samplegif_4fps](https://github.com/RajanPatel97/FYP/blob/master/Assets/samplegif_4fps.gif)
 
 ## Datasets
 The ArtImages data-set can be downloaded from this [link](https://imperialcollegelondon.box.com/s/fslnl56lrmv4o4ten7yeaspx4goxnqaj)
