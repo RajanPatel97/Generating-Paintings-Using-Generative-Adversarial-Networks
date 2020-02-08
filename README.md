@@ -1,8 +1,6 @@
 # Generating Paintings using Generative Adversarial Networks
 This is the repository for my Generation of Paintings using Generative Adversarial Networks Project at Imperial College London 
 
-
-![samplegif_64fps](https://github.com/RajanPatel97/FYP/blob/master/Assets/samplegif_64fps.gif)
 ![samplegif_4fps](https://github.com/RajanPatel97/FYP/blob/master/Assets/samplegif_4fps.gif)
 
 ## Datasets
