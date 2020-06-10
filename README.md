@@ -1,6 +1,7 @@
 # Generating Paintings using Generative Adversarial Networks
-This is the repository for my Generation of Paintings using Generative Adversarial Networks Project at Imperial College London 
+An exploration into the research, design and implementation of bespoke Generative Adversarial Network (GAN) architectures is conducted, with the aim of synthesizing novel paintings that have ’aesthetic arousal’ and can be perceived as ’Art’ by observers.
 
+This is the repository for my Generation of Paintings using Generative Adversarial Networks Project at Imperial College London 
 ![samplegif_4fps](https://github.com/RajanPatel97/FYP/blob/master/Assets/samplegif_4fps.gif)
 
 The repository has been designed such that experiments for each architecture are
